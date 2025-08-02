@@ -1,6 +1,16 @@
 # Customer Behavior Analytics
 
-This project analyzes simulated customer transaction behavior using Python and Jupyter Notebook. It showcases exploratory data analysis (EDA), visualizations, and insight development.
+This project simulates customer transaction analysis based on real-world patterns observed during my work as a Student Supervisor at Cornell's Mann Café. I frequently analyzed sales data to forecast demand and optimize inventory — this project extends that work using Python and Jupyter to explore broader trends in customer behavior.
+
+---
+
+## Project Goal
+
+To analyze transaction-level customer data to:
+- Understand spending distributions
+- Detect high-value customers
+- Explore correlations (e.g., demographic-like proxies such as height)
+- Simulate internal decision reports used in real-world café operations
 
 ---
 
@@ -37,3 +47,11 @@ This project analyzes simulated customer transaction behavior using Python and J
 - Exploratory data analysis
 - Insight communication
 - Visualization & storytelling
+
+## Outcome
+
+The analysis generated insights that could inform:
+- Inventory restocking frequency
+- Marketing strategies for high- or low-spending customers
+- Segmentation for loyalty programs or personalized promotions
+- Operational strategy decisions like staffing based on spend trends
