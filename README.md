@@ -1,6 +1,6 @@
 # Customer Behavior Analytics
 
-This project simulates customer transaction analysis based on real-world patterns observed during my work as a Student Supervisor at Cornell's Mann Café. I frequently analyzed sales data to forecast demand and optimize inventory — this project extends that work using Python and Jupyter to explore broader trends in customer behavior.
+This project simulates customer transaction analysis based on real-world patterns observed during my work as a Student Supervisor at Cornell's Mann Café. I frequently analyzed sales data to forecast demand and optimize inventory, this project extends that work using Python and Jupyter to explore broader trends in customer behavior.
 
 ---
 
